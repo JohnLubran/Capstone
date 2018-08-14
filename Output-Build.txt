@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: Capstone, Configuration: Debug Any CPU ------
+1>  Capstone -> D:\Documents\VisualStudio2015\Projects\Capstone\Capstone\bin\Debug\Capstone.exe
+Building Capstone...
+2>------ Publish started: Project: Capstone, Configuration: Debug Any CPU ------
+Connecting to 'D:\Documents\Homework\Capstone\Presentation1.1\'...
+Publishing files...
+Publish success.
+D:\Documents\Homework\Capstone\Presentation1.1\
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
