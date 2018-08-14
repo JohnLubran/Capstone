@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+<HSB hueLow = "0" hueHigh = "255" saturationLow = "0" saturationHigh = "255" brightnessLow = "0" brightnessHigh = "255" />
+<RGB redLow = "255" redHigh = "255" greenLow = "80" greenHigh = "250" blueLow = "80" blueHigh = "250" />
+<Size lowerSetSize = "1" upperSetSize = "100" upperSetCount = "1000" xResolution = "1920" yResolution = "1080" fastSearchRange = "100" />
+<Time frameRate = "60" startTime = "0" endTime = "1" />
+<Misc ifRGB = "True" range = "84" />
+<Calibration leftBounding = "900" topBounding = "1000" widthBounding = "100" heightBounding = "80" rLock = "True" gLock = "True" bLock = "True" hLock = "True" sLock = "True" lLock = "True" />
+</root>
